@@ -3,7 +3,7 @@
 This repository is for showing how Git and GitHub work
 
 ## Introduction
-Learning Git
+Learning Git. Udemy class by Jason Taylor.
 
 ## Purpose
 
